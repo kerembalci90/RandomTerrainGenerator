@@ -4,3 +4,8 @@ Done with following the tutorial from https://www.hackingwithswift.com/example-c
 
 Tap on the screen to generate new terrain.
 
+![](Screenshots/IMG_0979.PNG)
+![](Screenshots/IMG_0980.PNG)
+![](Screenshots/IMG_0981.PNG)
+![](Screenshots/IMG_0982.PNG)
+![](Screenshots/IMG_0983.PNG)
